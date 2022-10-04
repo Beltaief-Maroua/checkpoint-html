@@ -1,0 +1,18 @@
+.nav{
+	font-family:roboto
+}
+
+h1{
+    border: 2px dotted rgb(209, 110, 202);
+}
+
+#image{
+    border: 6px solid black;
+    border-radius: 15px;
+}
+a:active{
+    color: #0000FF
+}
+h3 {
+    color: blue;
+}  
